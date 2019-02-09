@@ -1,0 +1,32 @@
+# WEB APPLICATION -
+1.) Book sharing Portal :- 
+  A portal which allows reader in common city to share books with each other on monthly basis.
+  Gather user's data and match a user to his nearest lender.
+  
+ 2.) Personal Chat Room :-
+  Personal Chat room where number of people can join and send txt msg, share video/audio files etc.
+  
+ 3.) Social Media Scheduler :-
+  An app which schedule the post for social media platforms and automatically post them at scheduled time.
+  
+ 4.) E-Commerce Inventory Manager :-
+  Product for e-commerce owners which helps them track their a/v products, if products are out of stock-alert them.
+  
+ 5.) School attendence Manager :-
+  For a class of students, keeps track of attendence and over a month, generate report in sorted order of puntual, regular, irregular
+  students.
+ 
+ 6.) Hospital Locator :-
+  Based on the symptoms/ illness, locate the nearest hospital.
+  
+ 7.) Remainder :-
+  Online application which sends email about monthly unpaid bills.
+  
+# WEB CRAWLERS -
+  1.) Property tracker :-
+    web crawler which crawls all websites of property and gives closest matching property list.
+  
+  2.) Price drop alert :-
+    Web crawler that notify/keep track of Cost price of an item and alerts when price drops below certain point.
+
+
