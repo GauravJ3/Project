@@ -1,2 +1,4 @@
 # Project
-Project Ideas to implement in Java, Python and JavaScript (as of now I know limited Programming languages)
+Project Ideas to implement in Python.
+# Update 1 (future Goal) :
+Node js implementation of web crawlers.  
